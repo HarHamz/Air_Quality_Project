@@ -17,7 +17,7 @@ This project takes data from [this](https://archive.ics.uci.edu/dataset/501/beij
 ### Streamlit Deployed Version
 There is also a deployed Streamlit version which answers the 4 questions more thoroughly with visualisation.
 
-Link to Streamlit: [Deployed Streamlit]()
+Link to Streamlit: [Deployed Streamlit](https://air-quality-dashboard-harhamz.streamlit.app/)
 
 ### Requirements
 - matplotlib==3.10.1

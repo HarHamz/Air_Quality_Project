@@ -1,1 +1,1 @@
-TODO: *url to deployed*
+https://air-quality-dashboard-harhamz.streamlit.app/
