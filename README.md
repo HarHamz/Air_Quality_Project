@@ -19,6 +19,33 @@ There is also a deployed Streamlit version which answers the 4 questions more th
 
 Link to Streamlit: [Deployed Streamlit](https://air-quality-dashboard-harhamz.streamlit.app/)
 
+### Setting Up the Environment Locally
+
+1. Clone this repository
+
+   ```bash
+   git clone https://github.com/HarHamz/Air_Quality_Project.git
+   ```
+
+2. Navigate to the local repository
+
+4. Install all the requirements
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+5. Run the streamlit dashboard
+
+   ```bash
+   streamlit run .\dashboard\dashboard.py
+   ```
+
+6. To stop the streamlit dashboard, use `ctrl + c`
+
+---
+
+
 ### Requirements
 - matplotlib==3.10.1
 - pandas==2.2.3
